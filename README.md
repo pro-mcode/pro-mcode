@@ -5,7 +5,7 @@
 Email: promcode01@gmail.com
 
 
-**Crypto Trader | Blockchain Developer | Web3 Researcher | Ecosystem Architect**  
+**Blockchain Developer | Web3 Researcher | Ecosystem Architect**  
 Market Structure • On-chain Data • DeFi Infrastructure
 
 
