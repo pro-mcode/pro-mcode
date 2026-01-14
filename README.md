@@ -1,10 +1,11 @@
 # Hi, I'm Adedamola Maxwell (AD-M I)
 
 ![GitHub stars](https://img.shields.io/github/stars/pro-mcode?style=social)
-Email: promcode01@gmail.com
+
 
 **Crypto Trader | Blockchain Developer | Web3 Researcher | Ecosystem Architect**  
 Market Structure • On-chain Data • DeFi Infrastructure
+Email: promcode01@gmail.com
 
 ---
 
