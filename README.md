@@ -1,6 +1,7 @@
 # 👋 Hi, I’m Adedamola Maxwell (AD-M I)
 
 ### **Blockchain Engineer | Web3 Researcher | Ecosystem Architect | Community Builder**
+DeFi Infrastructure • Smart Contracts • On-Chain Analytics • Protocol Design • Community Growth
 
 ![Blockchain](https://img.shields.io/badge/Blockchain-Engineering-blue)
 ![Web3](https://img.shields.io/badge/Web3-Research-purple)
