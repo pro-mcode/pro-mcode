@@ -1,86 +1,82 @@
-# Hi, I'm Adedamola Maxwell (AD-M I)
+# 👋 Hi, I’m Adedamola Maxwell (AD-M I)
 
-Email: promcode01@gmail.com
+### **Blockchain Engineer | Web3 Researcher | Ecosystem Architect | Community Builder**
 
+![Blockchain](https://img.shields.io/badge/Blockchain-Engineering-blue)
+![Web3](https://img.shields.io/badge/Web3-Research-purple)
+![DeFi](https://img.shields.io/badge/DeFi-Infrastructure-green)
+![Community](https://img.shields.io/badge/Community-Building-orange)
 
-**Blockchain Engineer | Web3 Researcher | Ecosystem Architect**  
-Market Structure • On-chain Data • DeFi Infrastructure
+I’m a **Blockchain Engineer and Web3 Researcher** focused on building, analyzing, and scaling **decentralized systems**. My work spans **protocol engineering, on-chain research, and ecosystem architecture**, helping Web3 products evolve from ideas into production-grade infrastructure.
 
+Beyond code, I actively contribute to **developer and crypto communities**, simplifying complex blockchain concepts and sharing practical insights on DeFi, consensus mechanisms, and crypto market structure.
 
 ---
 
-## About Me
+## What I Do
 
-I work at the intersection of **crypto trading, blockchain development, and on-chain research**, with a strong focus on understanding **market structure rather than surface-level price action**.
+### Blockchain Engineering
+- Smart contract development (**Solidity**, **Foundry**, **OpenZeppelin**)
+- DeFi protocol architecture & security-aware design
+- RPC infrastructure and node types (full, archive, light)
+- Ethereum & EVM internals (gas mechanics, execution, consensus)
 
-My core interest lies in **how capital, leverage, and positioning drive crypto markets**. I actively study and analyze:
+### Web3 & On-Chain Research
+- Consensus mechanisms (**PoW, PoS, BFT-based systems**)
+- On-chain analytics & data pipelines
+- Protocol trade-off analysis (scalability, decentralization, security)
+- Crypto market structure & system design
 
-- Spot vs perpetual futures dynamics
-- Funding rates, basis trades, and trader positioning
-- Open interest, liquidations, and volatility expansion/compression
-- BTC dominance, correlation regimes, and why altcoins structurally follow Bitcoin
+### Ecosystem Architecture
+- Designing infrastructure for analytics platforms & RPC services
+- Protocol–developer–user feedback loops
+- Technical advisory for early-stage Web3 products
 
-Rather than treating trading as isolated chart patterns, I approach it as a **system shaped by incentives, liquidity, and derivatives mechanics**.
-
-On the technical side, I build **Ethereum-based tools and Web3 applications**, working with:
-
-- Solidity and smart contract fundamentals
-- Remix and Hardhat for development and testing
-- JavaScript, React, and Node.js for dashboards and interfaces
-- Web3/Ethers libraries for on-chain data interaction
-
-A recurring theme in my work is **turning complex crypto data into usable insight**. This has led me to design and plan:
-
-- Crypto screeners and market dashboards
-- Market regime journals for daily tracking
-- Educational resources that explain funding, open interest, and correlation clearly
-
-Beyond individual building and trading, I’m also interested in the **community layer of Web3** — how traders, builders, and researchers can collaborate, learn, and contribute on-chain. I care deeply about **education, transparency, and long-term skill development** in the crypto space.
-
-Overall, my goal is simple but demanding:
-**to develop strong market intuition backed by data, and to build tools that help others understand how crypto markets actually work.**
+### Community & Knowledge Building
+- Building and managing crypto & developer communities
+- Translating complex blockchain topics into clear insights
+- Sharing daily learnings on Web3, DeFi, and crypto markets
 
 ---
 
 ## Tech Stack
 
-### Blockchain & Web3
+### Languages & Frameworks
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs)
 
-- Solidity, Ethereum
-- Ethers.js, Web3.js
-- Hardhat, Remix
-
-### Frontend
-
-- JavaScript, React Native, React, Next
-- Tailwind CSS, Scss
-- Charting & dashboards
-- Shadcn, Framer Motion, Gsap
-
-### Backend & Data
-
-- Node.js
-- Python (Data analysis)
-- APIs & indexers
+### Web3 & Tooling
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat&logo=ethereum)
+![Foundry](https://img.shields.io/badge/Foundry-000000?style=flat)
+![Hardhat](https://img.shields.io/badge/Hardhat-F7DF1E?style=flat)
+![OpenZeppelin](https://img.shields.io/badge/OpenZeppelin-4E5EE4?style=flat)
 
 ---
 
-## Trading & Market Focus
+## GitHub Stats
 
-- Spot vs Perpetual Futures
-- Funding Rates & Basis
-- Open Interest & Liquidations
-- BTC Dominance & Correlation Regimes
-- Market Expansion vs Compression
-- Altcoin Rotation Cycles
-
-> **Goal:** Build data-driven conviction, not hype-based trades.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pro-mcode&show_icons=true&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pro-mcode&layout=compact&theme=transparent)
 
 ---
 
-## Current Projects
+## Current Focus
+- DeFi infrastructure & protocol research  
+- On-chain analytics & blockchain data systems  
+- RPC & node infrastructure design  
+- Developer tooling & Web3 adoption  
 
-- 🔍 Crypto Screener & Market Dashboard
-- 📘 Market Regime Trading Journal
-- 🧠 Web3 learning & research content
-- 🌐 Community-driven crypto education
+---
+
+## Let’s Connect
+- **Email:** promcode01@gmail.com  
+- **GitHub:** https://github.com/pro-mcode  
+- **LinkedIn:** https://linkedin.com/in/promcode  
+- **X (Twitter):** https://x.com/pro_mcode
+
+
+---
+
+> *Building decentralized systems. Growing ecosystems. Sharing knowledge.*
