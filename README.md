@@ -1,12 +1,14 @@
 # 👋 Hi, I’m Adedamola Maxwell (AD-M I)
 
 ### **Blockchain Engineer | Web3 Researcher | Ecosystem Architect | Community Builder**
-DeFi Infrastructure • Smart Contracts • On-Chain Analytics • Protocol Design • Community Growth
 
-![Blockchain](https://img.shields.io/badge/Blockchain-Engineering-blue)
-![Web3](https://img.shields.io/badge/Web3-Research-purple)
-![DeFi](https://img.shields.io/badge/DeFi-Infrastructure-green)
-![Community](https://img.shields.io/badge/Community-Building-orange)
+![Blockchain](https://img.shields.io/badge/Blockchain-Engineering-1E40AF?style=flat&logo=ethereum&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-Research-7C3AED?style=flat&logo=web3&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi-Infrastructure-10B981?style=flat&logo=ethereum&logoColor=white)
+![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-8B5CF6?style=flat&logo=solidity&logoColor=white)
+![On-Chain Analytics](https://img.shields.io/badge/On-Chain-Analytics-6366F1?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAMAAAC67D+PAAAABlBMVEX///8AAABVwtN+AAAAN0lEQVQYV2NgwAKMGRiYmJiYBQiGJjAyMjExIBRjAAIpgZGBgZGJiYGBgYGRj4GBgaGMQAAHTsCXBWGk3EAAAAASUVORK5CYII=)
+![Protocol Design](https://img.shields.io/badge/Protocol-Design-DC2626?style=flat&logo=ethereum&logoColor=white)
+![Community](https://img.shields.io/badge/Community-Building-F59E0B?style=flat&logo=slack&logoColor=white)
 
 I’m a **Blockchain Engineer and Web3 Researcher** focused on building, analyzing, and scaling **decentralized systems**. My work spans **protocol engineering, on-chain research, and ecosystem architecture**, helping Web3 products evolve from ideas into production-grade infrastructure.
 
