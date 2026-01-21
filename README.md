@@ -6,7 +6,6 @@
 ![Web3](https://img.shields.io/badge/Web3-Research-7C3AED?style=flat&logo=web3&logoColor=white)
 ![DeFi](https://img.shields.io/badge/DeFi-Infrastructure-10B981?style=flat&logo=ethereum&logoColor=white)
 ![Smart Contracts](https://img.shields.io/badge/Smart%20Contracts-6B46C1?style=flat&logo=solidity&logoColor=white)
-![On-Chain Analytics](https://img.shields.io/badge/On-Chain-Analytics-6366F1?style=flat)
 ![Protocol Design](https://img.shields.io/badge/Protocol-Design-DC2626?style=flat&logo=ethereum&logoColor=white)
 ![Community](https://img.shields.io/badge/Community-Building-F59E0B?style=flat&logo=slack&logoColor=white)
 
