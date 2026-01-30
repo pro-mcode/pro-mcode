@@ -1,12 +1,10 @@
 # 👋 Hi, I’m Adedamola Maxwell (AD-M I)
 
-### **Blockchain Engineer | Smart Contract Security & Web3 Researcher | Ecosystem Architect | Community Builder**
+### **Blockchain Engineer | Smart Contract Security & Web3 Researcher | Ecosystem Architecture | Community Builder**
 
 ![Blockchain](https://img.shields.io/badge/Blockchain-Engineering-1E40AF?style=flat&logo=ethereum&logoColor=white)
 ![Smart Contract Security](https://img.shields.io/badge/Smart%20Contract%20Security-DC2626?style=flat&logo=solidity&logoColor=white)
 ![Web3](https://img.shields.io/badge/Web3-Research-7C3AED?style=flat&logo=web3&logoColor=white)
-![DeFi](https://img.shields.io/badge/DeFi-Infrastructure-10B981?style=flat&logo=ethereum&logoColor=white)
-![Protocol Design](https://img.shields.io/badge/Protocol-Design-DC2626?style=flat&logo=ethereum&logoColor=white)
 ![Community](https://img.shields.io/badge/Community-Building-F59E0B?style=flat&logo=slack&logoColor=white)
 
 I’m a **Blockchain Engineer and Web3 Researcher** focused on building, auditing, and scaling **decentralized systems**. My work spans **protocol engineering, smart contract security, on-chain research, and ecosystem architecture**, helping Web3 products evolve from concepts into production-grade infrastructure.
