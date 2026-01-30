@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Adedamola Maxwell (AD-M I)
 
-### **Blockchain Engineer | Smart Contract Security & Web3 Researcher | Ecosystem Architecture | Community Builder**
+### **Blockchain Engineer | Smart Contract Security & Web3 Researcher | Ecosystem Architect | Community Builder**
 
 ![Blockchain](https://img.shields.io/badge/Blockchain-Engineering-1E40AF?style=flat&logo=ethereum&logoColor=white)
 ![Smart Contract Security](https://img.shields.io/badge/Smart%20Contract%20Security-DC2626?style=flat&logo=solidity&logoColor=white)
