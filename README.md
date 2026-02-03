@@ -62,9 +62,25 @@ Beyond code, I actively contribute to **developer and crypto communities**, simp
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pro-mcode&show_icons=true&theme=transparent&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pro-mcode&layout=compact&theme=transparent&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pro-mcode&show_icons=true&theme=transparent&count_private=true&hide_border=true&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pro-mcode&layout=compact&theme=transparent&count_private=true&hide_border=true&langs_count=6)
+![GitHub Streak](https://streak-stats.demolab.com?user=pro-mcode&theme=transparent&hide_border=true)
 
+---
+
+## Featured Work
+
+- **Smart Contract Security Research**
+  - Vulnerability analysis, exploit breakdowns & mitigations  
+  - Audit-style reports & PoCs
+
+- **DeFi & Protocol Engineering**
+  - Protocol architecture, gas optimization & design trade-offs  
+  - Infrastructure for analytics & on-chain data
+
+- **Developer Tooling**
+  - Foundry-based testing frameworks  
+  - Helpers for deployment, config & automation
 
 ---
 
