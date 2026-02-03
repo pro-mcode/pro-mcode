@@ -62,8 +62,9 @@ Beyond code, I actively contribute to **developer and crypto communities**, simp
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pro-mcode&show_icons=true&theme=transparent)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pro-mcode&layout=compact&theme=transparent)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pro-mcode&show_icons=true&theme=transparent&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pro-mcode&layout=compact&theme=transparent&count_private=true)
+
 
 ---
 
