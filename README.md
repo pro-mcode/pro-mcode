@@ -8,7 +8,9 @@
 
 I build and research **decentralized systems** with a focus on **smart contract security, protocol design, and system-level behavior**. My work spans DeFi infrastructure, on-chain research, and execution-layer architecture—helping Web3 products move from concept to **production-grade, adversary-resilient systems**.
 
-I care less about whether code compiles and more about whether systems **remain secure, live, and incentive-aligned under real-world conditions**.
+Correct code is the baseline. I design systems that **remain secure, live, and incentive-aligned under adversarial real-world conditions.**
+My focus is not just implementation, but mechanism design, trust boundaries, and long-term resilience.
+
 
 Beyond engineering, I contribute to developer and crypto communities by breaking down complex protocol ideas and sharing practical insights on security, DeFi mechanics, and blockchain infrastructure.
 
