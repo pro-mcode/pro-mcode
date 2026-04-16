@@ -1,44 +1,54 @@
 # Adedamola Maxwell (AD-M I)
 
-**Blockchain Engineer · Smart Contract Security · Protocol & Systems Research**
+**Fintech & Web3 Systems Engineer · Payments · Crypto Infrastructure · Smart Contracts**
 
 ---
 
 ## Overview
 
-I build and research **decentralized systems** with a focus on **smart contract security, protocol design, and system-level behavior**. My work spans DeFi infrastructure, on-chain research, and execution-layer architecture—helping Web3 products move from concept to **production-grade, adversary-resilient systems**.
+I design and build **financial systems that move money across web2 and web3**—from payment processing backends to crypto infrastructure and smart contracts.
 
-Correct code is the baseline. I design systems that **remain secure, live, and incentive-aligned under adversarial real-world conditions.**
-My focus is not just implementation, but mechanism design, trust boundaries, and long-term resilience.
+My work focuses on building **reliable, production-grade systems** for real-world products handling real transactions. This includes payment flows, wallet systems, transaction engines, and on-chain logic.
 
+I build systems that remain **secure, consistent, and resilient under real-world conditions**, where failures impact actual users and funds.
 
-Beyond engineering, I contribute to developer and crypto communities by breaking down complex protocol ideas and sharing practical insights on security, DeFi mechanics, and blockchain infrastructure.
+Beyond implementation, I think in terms of **system design, transaction integrity, and end-to-end financial flows**—ensuring systems behave correctly across both backend and blockchain environments.
+
 
 ---
 
 ## Focus Areas
 
-- **Blockchain Engineering**  
-  Smart contracts, DeFi protocols, EVM execution, gas mechanics
+- **Fintech Systems**  
+  Payment processing, transaction flows, webhooks, reconciliation systems
 
-- **Security & Research**  
-  Threat modeling, exploit analysis, protocol failure modes
+- **Backend Infrastructure**  
+  APIs, distributed systems, event-driven architecture, data consistency
 
-- **Protocol & Systems Thinking**  
-  Incentive design, trust boundaries, scalability trade-offs
+- **Crypto Infrastructure**  
+  Wallet systems, transaction tracking, exchange integrations
 
-- **Ecosystem Building**  
-  Developer tooling, coordination, and community growth
+- **Smart Contracts**  
+  Solidity development, escrow systems, on-chain financial logic
 
 ---
 
 ## Current Work
 
-- Smart contract security research and auditing
-- DeFi and protocol-level infrastructure
-- On-chain analytics and system design
-- Developer tooling and ecosystem growth
+- Building payment and transaction processing systems
+- Designing crypto wallet and ledger infrastructure
+- Developing smart contracts for financial use cases
+- Architecting end-to-end money movement systems across web2 and web3
 
 ---
 
-> Designing secure systems. Studying incentives. Building durable protocols.
+## Engineering Approach
+
+- Design for **financial correctness first**
+- Build for **reliability under real usage**
+- Treat systems as **state machines, not scripts**
+- Optimize for **clarity, auditability, and scalability**
+
+---
+
+> Building systems that move money—reliably, securely, and at scale.
