@@ -1,54 +1,55 @@
 # Adedamola Maxwell (AD-M I)
 
-**Fintech & Web3 Systems Engineer · Payments · Crypto Infrastructure · Smart Contracts**
+**Principal Systems Engineer · Distributed Systems · Decentralized Infrastructure · Reliability Engineering**
 
 ---
 
 ## Overview
 
-I design and build **financial systems that move money across web2 and web3**—from payment processing backends to crypto infrastructure and smart contracts.
+I design and build reliable distributed and decentralized infrastructure.
 
-My work focuses on building **reliable, production-grade systems** for real-world products handling real transactions. This includes payment flows, wallet systems, transaction engines, and on-chain logic.
+My work spans systems architecture, backend engineering, fintech infrastructure, blockchain networks, and large-scale distributed systems. I focus on building systems that remain secure, resilient, and scalable under real-world conditions where failures, traffic spikes, and operational complexity are inevitable.
 
-I build systems that remain **secure, consistent, and resilient under real-world conditions**, where failures impact actual users and funds.
+I am particularly interested in the systems that power modern digital platforms, from transaction processing and payment orchestration to distributed services, blockchain infrastructure, and mission-critical backend systems.
 
-Beyond implementation, I think in terms of **system design, transaction integrity, and end-to-end financial flows**—ensuring systems behave correctly across both backend and blockchain environments.
-
+Beyond implementation, I think deeply about system design, reliability, fault tolerance, scalability, observability, and the engineering principles required to build systems that continue to function when normal conditions no longer exist.
 
 ---
 
 ## Focus Areas
 
-- **Fintech Systems**  
-  Payment processing, transaction flows, webhooks, reconciliation systems
+### Distributed Systems
+Service-oriented architectures, event-driven systems, asynchronous processing, scalability, resilience, and fault tolerance.
 
-- **Backend Infrastructure**  
-  APIs, distributed systems, event-driven architecture, data consistency
+### Backend Infrastructure
+APIs, data systems, orchestration services, observability, platform engineering, and operational reliability.
 
-- **Crypto Infrastructure**  
-  Wallet systems, transaction tracking, exchange integrations
+### Fintech Infrastructure
+Payment systems, transaction processing, money movement, ledger systems, settlement workflows, and financial operations.
 
-- **Smart Contracts**  
-  Solidity development, escrow systems, on-chain financial logic
+### Decentralized Infrastructure
+Blockchain networks, smart contracts, wallet infrastructure, on-chain systems, and decentralized applications.
 
 ---
 
 ## Current Work
 
-- Building payment and transaction processing systems
-- Designing crypto wallet and ledger infrastructure
-- Developing smart contracts for financial use cases
-- Architecting end-to-end money movement systems across web2 and web3
+- Building distributed systems and backend infrastructure
+- Designing fintech and payment platforms
+- Developing blockchain and smart contract systems
+- Architecting resilient systems for reliability and scale
+- Exploring infrastructure, protocol, and platform engineering
 
 ---
 
-## Engineering Approach
+## Engineering Principles
 
-- Design for **financial correctness first**
-- Build for **reliability under real usage**
-- Treat systems as **state machines, not scripts**
-- Optimize for **clarity, auditability, and scalability**
+- Design for reliability before scale
+- Build for failure, not perfect conditions
+- Optimize for simplicity, clarity, and maintainability
+- Treat infrastructure as a strategic asset
+- Prioritize observability, resilience, and operational excellence
 
 ---
 
-> Building systems that move money—reliably, securely, and at scale.
+> Building systems that remain reliable when complexity grows and failure becomes inevitable.
