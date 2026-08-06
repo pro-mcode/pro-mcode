@@ -1,75 +1,82 @@
-# Adedamola Maxwell (AD-M)
+# Adedamola Maxwell · AD-M
 
-**AI Automation Engineer · Backend Systems · Workflow Orchestration · Distributed Systems**
+**AI automation and backend systems for business operations — built as software you own.**
+Deployed in your infrastructure, on your credentials, against your data.
 
 ---
 
 ## Overview
 
-I build AI automation systems that help businesses eliminate repetitive work, streamline operations, and improve customer experience.
+Most business automation comes in two flavours: a no-code workflow that breaks silently at 2am, or a vendor platform that holds your data and raises the price once you depend on it.
 
-My focus is on designing automation that businesses actually own—not black-box solutions that lock them into a vendor. Every system is deployed in the client's own infrastructure, with their own credentials, data, and workflows.
+I build the third option. Real services in Python, TypeScript, and Go, deployed in the client's own environment, with tests, monitoring, and recovery paths. When something fails you find out immediately, you know exactly which records were affected, and it can be safely re-run.
 
-My background in backend engineering, distributed systems, and decentralized infrastructure shapes how I approach automation. Rather than treating AI as a chatbot, I build reliable operational systems where AI, business logic, databases, and human approvals work together to automate real business processes.
-
-I enjoy solving problems where AI can reduce manual work while keeping humans in control of critical decisions.
+I come to this from backend and distributed systems, which changes what "automation" means in practice. AI isn't a chatbot bolted onto a process — it's one component in an operational system where business logic, databases, queues, and human approval steps each have defined responsibilities and defined failure behaviour.
 
 ---
 
-## What I Build
+## What I build
 
-### AI Automation
+**AI and workflow automation**
+Customer assistants and WhatsApp business automation · retrieval-augmented search over business documents · document processing and generation · orchestration in n8n with human-in-the-loop approvals
 
-- AI customer assistants
-- WhatsApp business automation
-- Retrieval-Augmented Generation (RAG)
-- AI-powered knowledge bases
-- Document automation
-- Workflow orchestration with n8n
-- Human-in-the-loop approval systems
+**Backend systems**
+REST APIs · PostgreSQL and Supabase · event-driven services · queues and background jobs · third-party integrations · observability and recovery designed in, not added later
 
-### Backend Systems
+**Business operations**
+Payment reconciliation · invoicing · lead management · customer onboarding · internal tools and operational dashboards
 
-- REST APIs
-- PostgreSQL & Supabase
-- Event-driven architectures
-- Background jobs
-- Queue systems
-- System integrations
-
-### Business Operations
-
-- CRM automation
-- Lead management
-- Customer onboarding
-- Payment reconciliation
-- Invoice generation
-- Operational dashboards
-- Internal business tools
-
-### Web3 & Distributed Systems
-
-I continue exploring blockchain infrastructure, smart contracts, protocol design, and distributed systems, applying the same engineering principles of reliability, ownership, and resilience to decentralized technologies.
+**Decentralized systems**
+Solidity — settlement, custody, and on-chain accounting logic. The same discipline as everything above, under harsher conditions: atomicity, correct state under partial failure, and an audit trail you can reconstruct.
 
 ---
 
-## Engineering Principles
+## How I build
 
-- Automate repetitive work, not human judgment.
-- The client owns the infrastructure, credentials, and data.
-- Every workflow should be observable, testable, and recoverable.
-- AI should support business processes—not replace them.
-- Build for reliability before scale.
-- Keep systems simple enough to maintain and extend.
+- **Automate repetitive work, not human judgment.** Approval stays with people.
+- **The client owns the infrastructure, credentials, and data.** No lock-in, no black boxes.
+- **Every workflow is observable, testable, and recoverable.** If you can't tell what it did, it isn't finished.
+- **Reliability before scale.** Most systems fail from unhandled edge cases, not load.
+- **Simple enough to maintain without me.** Documented, conventional, and boring where boring is correct.
 
 ---
 
 ## Currently
 
-I'm building AI-powered operational systems for businesses, including WhatsApp assistants, workflow automation, natural-language search over business data, and internal tools that integrate AI with existing business operations.
+Building AI-powered operational systems for businesses — WhatsApp assistants, workflow automation, natural-language search over business data, and internal tools that connect AI to existing operations.
 
-Most recently, I've been working on automation for real estate operations, covering customer engagement, lead management, payments, document workflows, and operational processes. The same architecture can be adapted across industries where businesses manage customers, data, and transactions.
+Most recent work is in real estate operations: customer engagement, lead management, payments, document workflows. The architecture transfers to any business managing customers, data, and transactions.
+
+Alongside this I'm working through distributed systems fundamentals — consensus, replication, and consistency — and writing about it publicly.
 
 ---
 
-> **Building AI systems that automate work—not ownership.**
+<!-- ## Selected work
+
+ Replace these. A README without links is a claim without evidence.
+     Three real repositories beat any description. 
+
+| Project | What it does | Stack |
+|---|---|---|
+| [project-name](#) | One line on the problem it solves | Go, PostgreSQL |
+| [project-name](#) | One line on the problem it solves | Python, n8n |
+| [project-name](#) | One line on the problem it solves | Solidity, Foundry | 
+
+--- -->
+
+## Stack
+
+`Go` · `Python` · `TypeScript` · `Solidity` · `PostgreSQL` · `Supabase` · `Docker` · `n8n`
+
+---
+
+## Contact
+
+<!-- Writing → [blog](#) -->
+Elsewhere → [X](https://x.com/pro_mcode) · [LinkedIn](https://linkedin.com/in/promcode)
+
+Work → [email](admprotocol01@gmail.com)
+
+---
+
+> **Building AI systems that automate work — not ownership.**
